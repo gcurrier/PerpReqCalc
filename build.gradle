@@ -26,8 +26,8 @@ tasks.withType(JavaCompile) {
 }
 
 application {
-  mainModule = 'com.perpetuum.requirementsCalculator'
-  mainClass = 'com.perpetuum.requirementsCalculator.HelloApplication'
+  mainModule = 'com.perpetuum.perpreqcalc'
+  mainClass = 'com.perpetuum.perpreqcalc.HelloApplication'
 }
 
 javafx {
